@@ -15,7 +15,7 @@
             "NO_ONLINE": {
             "description": "",
             "required": true,
-             "value": "false"    
+             "value": "true"    
              },
             "ANTI_BOT": {
             "description": "",
@@ -24,27 +24,28 @@
              },
             "ONLY_GROUP": {
             "description": "",
-            "value": "false" ,    
+            "value": "true" ,    
             "required": true
              },
              "REMOVE_BG_API_KEY": {
             "description": "",
+            "value": "zBrXEh6uytndjhbcsDGaAJcg" ,
             "required": true
              },
             "OWN_NAME": {
             "description": "",
-            "value": "Sanuwa Official" ,
+            "value": "Anas Altaf" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94701629707" ,
+            "value": "923336681780" ,
             "required": true
              },
        
             "AUTO_REACT": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
              },
            
@@ -70,7 +71,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 K I N G X I T ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -80,7 +81,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 K I N G X I T ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -100,12 +101,12 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
+            "value": "https://i.ibb.co/M7d3vvP/Text-Pro-me-161ea8b1f284c8.jpg" ,
             "required": true
       },
       "DEPLOYER": {
             "description": "",
-            "value": "AQUA USER" ,
+            "value": "ANAS ALTAF" ,
             "required": true
       },
        "SONG_DOWN": {
@@ -140,7 +141,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "KING-XIT|XIT(Anas)࿐" ,
             "required": true
       },
           "WORK_TYPE": {
@@ -150,7 +151,7 @@
       },
          "SUDO": {
             "description": "",
-            "value": "" ,
+            "value": "923336681780,923046449370" ,
             "required": false
       },
          "LANGUAGE": {
